@@ -23,7 +23,7 @@ int* leftRightDifference(int* nums, int numsSize, int* returnSize) {
     return answer;
 }
 
-/* Example Usage
+/*Example Usage
 int main() {
     int nums[] = {10, 4, 8, 3};
     int n = sizeof(nums) / sizeof(nums[0]);
